@@ -1,6 +1,6 @@
 # programming
 
-## heading 2
+## Heading
 
 ```python
  ```
