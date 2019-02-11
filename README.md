@@ -1,6 +1,6 @@
-# programming docs
+# Genetic Algorithm illustration
 
-## Not Availabel now. Will be coming soon.
+This repo contains an introduction about what are genetic algorithms,
+and 3 examples implementing genetic algorithms.
 
-```python
- ```
+This a draft version. Example code has not been optimised. An optimised version will be coming soon.
